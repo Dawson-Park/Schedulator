@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Schedulator/static/css/main.fb069687.css",
+    "main.js": "/Schedulator/static/js/main.69bf078c.js",
+    "index.html": "/Schedulator/index.html",
+    "main.fb069687.css.map": "/Schedulator/static/css/main.fb069687.css.map",
+    "main.69bf078c.js.map": "/Schedulator/static/js/main.69bf078c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb069687.css",
+    "static/js/main.69bf078c.js"
+  ]
+}
